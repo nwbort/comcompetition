@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ACCCidental Podcast</title>
+    <link>https://nwbort.github.io/acccidental-podcast/</link>
+    <language>en-au</language>
+    <copyright>&#xA9; 2024 ACCCidental Podcast</copyright>
+    <itunes:author>Nick Twort</itunes:author>
+    <description>
+      A special podcast focussed on reviewing and analysing ACCC reports. We break down complex regulatory information, making it accessible and engaging for listeners interested in consumer rights, market competition, and regulatory affairs in Australia.
+    </description>
+    <itunes:image href="https://nwbort.github.io/acccidental-podcast/accidental-podcast.jpg"/>
+    <itunes:category text="Business">
+      <itunes:category text="Business News"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Episode 3: ACCC's Interim Report on the Grocery Inquiry</title>
+      <itunes:author>Nick Twort</itunes:author>
+      <description>
+        In our newest episode, we delve into the ACCC's interim report for the grocery inquiry, examining the findings on competition, pricing, and market dynamics in Australia's grocery sector.
+      </description>
+      <enclosure url="https://nwbort.github.io/acccidental-podcast/groceries.mp3" length="12000000" type="audio/mpeg"/>
+      <guid>https://nwbort.github.io/acccidental-podcast/episode3</guid>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <itunes:duration>00:18:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 2: Examining Multimodal Foundation Models</title>
+      <itunes:author>Nick Twort</itunes:author>
+      <description>
+        In this episode, we dive into the paper 'Examination of technology: Multimodal Foundation Models' by DP-REG, exploring the implications of this cutting-edge technology on regulatory landscapes.
+      </description>
+      <enclosure url="https://nwbort.github.io/acccidental-podcast/dpreg.mp3" length="10000000" type="audio/mpeg"/>
+      <guid>https://nwbort.github.io/acccidental-podcast/episode2</guid>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 1: Understanding the ACCC's Digital Platform Services Inquiry report 8</title>
+      <itunes:author>Nick Twort</itunes:author>
+      <description>
+        In our inaugural episode, we explore the ACCC's Digital Platform Services Inquiry's 8th report.
+      </description>
+      <enclosure url="https://nwbort.github.io/acccidental-podcast/dpsi8.mp3" length="9664748" type="audio/mpeg"/>
+      <guid>https://nwbort.github.io/acccidental-podcast</guid>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <itunes:duration>00:12:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
